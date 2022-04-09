@@ -17,5 +17,5 @@
     
   <h3><p align="center">Total de visitas no perfil:</p>
 <p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/InterFBS/count.svg"/>
+    <img alingn="center" src="https://profile-counter.glitch.me/guilhermeforprojeto/count.svg"/>
 </p>
