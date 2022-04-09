@@ -13,3 +13,9 @@
  </div>
    
 ![Snake animation](https://github.com/guilhermeforprojeto/guilhermeforprojeto/blob/output/github-contribution-grid-snake.svg)
+
+    
+  <h3><p align="center">Total de visitas no perfil:</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/InterFBS/count.svg"/>
+</p>
