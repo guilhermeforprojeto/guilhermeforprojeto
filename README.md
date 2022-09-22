@@ -1,4 +1,4 @@
-### Olaaa... Sou Guilherme Santana, Programador JavaScript
+### Legal você esta aqui! Eu sou Guilherme Santana, Programador JavaScript. Nem alguns trabalhos estão meu perfil <a href="https://gitlab.conceitho.com/guilherme"> Gitlab </a> 
 <div align="center">
   <a href="https://github.com/guilhermeforprojeto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeforprojeto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
