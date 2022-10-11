@@ -1,4 +1,4 @@
-### Eu sou Guilherme Santana, Programador JavaScript. alguns trabalhos estão em off no <a href="https://gitlab.conceitho.com/guilherme"> Gitlab </a> 
+### Welcome eu sou Guilherme Santana, Programador JavaScript/Typescript. Alguns trabalhos estão em privados no <a href="https://gitlab.conceitho.com/guilherme"> Gitlab</a>, la uso mais Typescript com Angular.
 <div align="center">
   <a href="https://github.com/guilhermeforprojeto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeforprojeto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
