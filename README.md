@@ -14,8 +14,11 @@
   <img alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Guilherme-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg">
-
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:190px;" src="https://raw.githubusercontent.com/guilhermeforprojeto/guilhermeforprojeto/e6432376b904d10055597fe068734402dc44fbf5/public/img/qr_code.svg"> Aponte sua camera aqui
+</br>
+</br>
+<div style="font-family: 'Sans';" align="center">
+<img  alt="QR - CODE" height="150" src="https://raw.githubusercontent.com/guilhermeforprojeto/guilhermeforprojeto/62d081765abb4d3a7d1548784c96d8a7e7126c3c/public/img/qr_code.svg"><br>Aponte sua camera aqui</br></img>
+</div>
 
 </div>
  <br/>
