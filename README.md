@@ -17,7 +17,7 @@
 </br>
 </br>
 <div style="font-family: 'Sans';" align="center">
-<img  alt="QR - CODE" height="150" src="https://raw.githubusercontent.com/guilhermeforprojeto/guilhermeforprojeto/62d081765abb4d3a7d1548784c96d8a7e7126c3c/public/img/qr_code.svg"><br>Aponte sua camera aqui</br></img>
+<img  alt="QR - CODE" height="150" src="https://raw.githubusercontent.com/guilhermeforprojeto/guilhermeforprojeto/62d081765abb4d3a7d1548784c96d8a7e7126c3c/public/img/qr_code.svg"><br><img height="50px" src="https://raw.githubusercontent.com/guilhermeforprojeto/guilhermeforprojeto/b741457516c15f8481307467fc4800dda2b86318/public/img/qr_code_celular.svg"></img><br>Aponte sua camera aqui </br></img> 
 </div>
 
 </div>
