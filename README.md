@@ -1,9 +1,9 @@
-### Welcome eu sou Guilherme Santana, Programador JavaScript/Typescript. Alguns trabalhos estão em privados no <a href="https://gitlab.conceitho.com/guilherme"> Gitlab</a>, la utlizo somente Typescript com Angular.
+### Welcome I'm Guilherme Santana, JavaScript/Typescript Programmer. Some works are private on <a href="https://gitlab.conceitho.com/guilherme"> Gitlab</a>, I only use Typescript with Angular.
 
 <div align="center">
   <a href="https://github.com/guilhermeforprojeto">
   <img height="180em" src="https://github-readme-stats-guilhermeforprojeto.vercel.app/api?username=guilhermeforprojeto&show_icons=true&theme=aura&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats-guilhermeforprojeto.vercel.app/api/top-langs/?username=guilhermeforprojeto&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats-guilhermeforprojeto.vercel.app/api/top-langs/?username=guilhermeforprojeto&layout=compact&langs_count=7&theme=aura"/></a>
 </div>
 <div align="center"style="display: inline_block"><br>
   <img alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,7 +14,9 @@
   <img alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Guilherme-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:190px;" src="https://c.tenor.com/xbsdnK7oyfUAAAAC/tux-linux-jump.gif">
+
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:190px;" src="https://raw.githubusercontent.com/guilhermeforprojeto/guilhermeforprojeto/e6432376b904d10055597fe068734402dc44fbf5/public/img/qr_code.svg"> Aponte sua camera aqui
+
 </div>
  <br/>
 
