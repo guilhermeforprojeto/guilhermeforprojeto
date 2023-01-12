@@ -2,15 +2,22 @@
 
 <div align="center">
   <a href="https://github.com/guilhermeforprojeto">
-  <img height="180em" src="http://github-readme-stats-guilhermeforprojeto.vercel.app/api?username=guilhermeforprojeto&show_icons=true&theme=midnight-blue&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats-guilhermeforprojeto.vercel.app/api/top-langs/?username=guilhermeforprojeto&layout=compact&langs_count=7&theme=midnight-blue"/>
+  <img height="180em" src="https://github-readme-stats-guilhermeforprojeto.vercel.app/api?username=guilhermeforprojeto&show_icons=true&theme=aura&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats-guilhermeforprojeto.vercel.app/api/top-langs/?username=guilhermeforprojeto&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guilherme-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Guilherme-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Guilherme-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-line.svg">
-  <img align="center" alt="Guilherme-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg">
+
+<img align="center" alt="Guilherme-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-line.svg"> </img>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+
+
+  <img align="center" alt="Guilherme-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg"> 
   <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Guilherme-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg">
