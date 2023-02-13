@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/guilhermeforprojeto">
-  <img height="180em" src="https://github-readme-stats-guilhermeforprojeto.vercel.app/api?username=guilhermeforprojeto&show_icons=true&theme=aura&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats-guilhermeforprojeto.vercel.app/api/top-langs/?username=guilhermeforprojeto&layout=compact&langs_count=7&theme=aura"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeforprojeto&show_icons=true&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeforprojeto&layout=compact&show_icons=true&theme=react"/></a>
 </div>
 <div align="center"style="display: inline_block"><br>
   <img alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
