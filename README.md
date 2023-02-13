@@ -1,9 +1,9 @@
 ### Welcome I'm Guilherme Santana, JavaScript/Typescript Programmer. Some works are private on <a href="https://gitlab.conceitho.com/guilherme"> Gitlab</a>, I only use Typescript with Angular.
 
 <div align="center">
-  <a href="https://github.com/guilhermeforprojeto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeforprojeto&show_icons=true&theme=react"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeforprojeto&layout=compact&show_icons=true&theme=react"/></a>
+  <a alt="Git Hub Status carregando..." href="https://github.com/guilhermeforprojeto">
+  <img alt="Git Hub Status carregando..." height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeforprojeto&show_icons=true&theme=react"/>
+  <img  alt="Git Hub Status carregando..." height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeforprojeto&layout=compact&show_icons=true&theme=react"/></a>
 </div>
 <div align="center"style="display: inline_block"><br>
   <img alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
