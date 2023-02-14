@@ -1,4 +1,4 @@
-## Welcome :wave: I'm Guilherme Santana, JavaScript/Typescript Programmer.
+## Welcome :wave: I'm Guilherme Santana :grinning:, JavaScript/Typescript Programmer.
 
 Some works are private on
 <a href="https://gitlab.conceitho.com/guilherme"> Gitlab</a>, I only use Typescript with Angular.
