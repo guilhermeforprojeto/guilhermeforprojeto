@@ -1,4 +1,4 @@
-## Welcome :wave: I'm Guilherme Santana :grinning:, JavaScript/Typescript Programmer.
+## Welcome :wave: I'm Guilherme Santana :grinning: - Full Cycle developer :information_source:
 
 Some works are private on
 <a href="https://gitlab.conceitho.com/guilherme"> Gitlab</a>, I only use Typescript with Angular.
@@ -11,6 +11,9 @@ Some works are private on
 <img width="820" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FMphfKwckgsEbm%2Fsource.gif&f=1&nofb=1&ipt=f6c416b0c9d55022f201444bbc608d283d6ab604e828032b80d73ab03a4bbb2f&ipo=images">
 </div>
 <div align="center"style="display: inline_block"><br>
+
+![Snake animation](https://github.com/guilhermeforprojeto/guilhermeforprojeto/blob/output/github-contribution-grid-snake.svg)
+
   <img alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Guilherme-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></img>
   <img alt="Guilherme-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></img>
@@ -38,8 +41,6 @@ Some works are private on
   <a href="https://www.linkedin.com/in/guilhermessantos-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
  </div>
-   
-![Snake animation](https://github.com/guilhermeforprojeto/guilhermeforprojeto/blob/output/github-contribution-grid-snake.svg)
 
   <h3><p align="center">Total de visitas no perfil:</p>
 <p align="center">
