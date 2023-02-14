@@ -7,14 +7,9 @@ Some works are private on
   <a alt="Git Hub Status carregando..." href="https://github.com/guilhermeforprojeto">
   <img alt="Git Hub Status carregando..." height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeforprojeto&show_icons=true&theme=react"/>
   <img  alt="Git Hub Status carregando..." height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeforprojeto&layout=compact&show_icons=true&theme=react"/></a>
-</div><div align="center">
-<img width="820" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FMphfKwckgsEbm%2Fsource.gif&f=1&nofb=1&ipt=f6c416b0c9d55022f201444bbc608d283d6ab604e828032b80d73ab03a4bbb2f&ipo=images">
-</div>
-<div align="center"style="display: inline_block"><br>
 
-![Snake animation](https://github.com/guilhermeforprojeto/guilhermeforprojeto/blob/output/github-contribution-grid-snake.svg)
-
-  <img alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<br>
+<img alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Guilherme-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></img>
   <img alt="Guilherme-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></img>
 <img alt="Guilherme-Next" height="30" width="40" src="https://raw.githubusercontent.com/guilhermeforprojeto/guilhermeforprojeto/e6432376b904d10055597fe068734402dc44fbf5/public/img/next_logo.svg">
@@ -22,6 +17,15 @@ Some works are private on
   <img alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Guilherme-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg">
+
+<br>
+</div><div align="center">
+<img width="820" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FMphfKwckgsEbm%2Fsource.gif&f=1&nofb=1&ipt=f6c416b0c9d55022f201444bbc608d283d6ab604e828032b80d73ab03a4bbb2f&ipo=images">
+</div>
+<div align="center"style="display: inline_block"><br>
+
+![Snake animation](https://github.com/guilhermeforprojeto/guilhermeforprojeto/blob/output/github-contribution-grid-snake.svg)
+
 </br>
 </br>
 <div style="font-family: 'Sans';" align="center">
