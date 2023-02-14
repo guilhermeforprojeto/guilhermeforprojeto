@@ -20,7 +20,7 @@ Some works are private on
 
 <br>
 </div><div align="center">
-<img width="820" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FMphfKwckgsEbm%2Fsource.gif&f=1&nofb=1&ipt=f6c416b0c9d55022f201444bbc608d283d6ab604e828032b80d73ab03a4bbb2f&ipo=images">
+<img alt="Eu só quero estar lá perto da ação, talvez eu possa ir em uma aventura também... eu ficaria fora de perigo..." idth="820" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FMphfKwckgsEbm%2Fsource.gif&f=1&nofb=1&ipt=f6c416b0c9d55022f201444bbc608d283d6ab604e828032b80d73ab03a4bbb2f&ipo=images">
 </div>
 <div align="center"style="display: inline_block"><br>
 
