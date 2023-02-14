@@ -1,15 +1,14 @@
-## Welcome!
+## Welcome :wave: I'm Guilherme Santana, JavaScript/Typescript Programmer.
 
-<span>
-I'm Guilherme Santana, JavaScript/Typescript Programmer. 
 Some works are private on
-<a href="https://gitlab.conceitho.com/guilherme"> Gitlab</a>, I only use Typescript with Angular.</span><div align="center">
-<img width="800" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FMphfKwckgsEbm%2Fsource.gif&f=1&nofb=1&ipt=f6c416b0c9d55022f201444bbc608d283d6ab604e828032b80d73ab03a4bbb2f&ipo=images">
-</div>
+<a href="https://gitlab.conceitho.com/guilherme"> Gitlab</a>, I only use Typescript with Angular.
+
 <div align="center">
   <a alt="Git Hub Status carregando..." href="https://github.com/guilhermeforprojeto">
   <img alt="Git Hub Status carregando..." height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeforprojeto&show_icons=true&theme=react"/>
   <img  alt="Git Hub Status carregando..." height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeforprojeto&layout=compact&show_icons=true&theme=react"/></a>
+</div><div align="center">
+<img width="820" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FMphfKwckgsEbm%2Fsource.gif&f=1&nofb=1&ipt=f6c416b0c9d55022f201444bbc608d283d6ab604e828032b80d73ab03a4bbb2f&ipo=images">
 </div>
 <div align="center"style="display: inline_block"><br>
   <img alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
