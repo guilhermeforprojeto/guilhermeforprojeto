@@ -1,5 +1,11 @@
-### Welcome I'm Guilherme Santana, JavaScript/Typescript Programmer. Some works are private on <a href="https://gitlab.conceitho.com/guilherme"> Gitlab</a>, I only use Typescript with Angular.
+## Welcome!
 
+<span>
+I'm Guilherme Santana, JavaScript/Typescript Programmer. 
+Some works are private on
+<a href="https://gitlab.conceitho.com/guilherme"> Gitlab</a>, I only use Typescript with Angular.</span><div align="center">
+<img width="800" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FMphfKwckgsEbm%2Fsource.gif&f=1&nofb=1&ipt=f6c416b0c9d55022f201444bbc608d283d6ab604e828032b80d73ab03a4bbb2f&ipo=images">
+</div>
 <div align="center">
   <a alt="Git Hub Status carregando..." href="https://github.com/guilhermeforprojeto">
   <img alt="Git Hub Status carregando..." height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeforprojeto&show_icons=true&theme=react"/>
