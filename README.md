@@ -9,7 +9,7 @@ Some works are private on
 <div align="center">
   <a alt="Git Hub Status carregando..." href="https://github.com/guilhermeforprojeto">
   <img alt="Git Hub Status carregando..." height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeforprojeto&show_icons=true&theme=react"/>
-  <img  alt="Git Hub Status carregando..." height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeforprojeto&layout=compact&show_icons=true&theme=react"/></a>
+  <img  alt="Git Hub Status carregando..." height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeforprojeto&layout=compact&show_icons=true&langs_count=6&theme=react"/></a>
 
 <br>
 <img alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
