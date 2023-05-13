@@ -1,4 +1,4 @@
-## Welcome :wave: I'm Guilherme Santana :grinning: - Full Stack developer :information_source:
+## Welcome :wave: I'm Guilherme Santana :grinning: - developer :information_source:
 
 Some works are private on
 <a href="https://gitlab.conceitho.com/guilherme"> Gitlab</a>, I only use Typescript with Angular.
