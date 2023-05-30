@@ -10,6 +10,13 @@ Some works are private on
   <a alt="Git Hub Status carregando..." href="https://github.com/guilhermeforprojeto">
   <img alt="Git Hub Status carregando..." height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeforprojeto&show_icons=true&theme=react"/>
   <img  alt="Git Hub Status carregando..." height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeforprojeto&layout=compact&show_icons=true&langs_count=60&theme=react"/></a>
+<div align="center">
+ 	 <a href="https://discord.gg/R8NaFWAs7H" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href="https://www.instagram.com/guilherme.blesses" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:guylhermesan52@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilhermessantos-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+ </div>
 
 <br>
 <img alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -41,13 +48,6 @@ Some works are private on
 </div>
  <br/>
 
-<div align="center">
- 	 <a href="https://discord.gg/R8NaFWAs7H" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href="https://www.instagram.com/guilherme.blesses" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guylhermesan52@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilhermessantos-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
- </div>
 
   <h3><p align="center">Total de visitas no perfil:</p>
 <p align="center">
