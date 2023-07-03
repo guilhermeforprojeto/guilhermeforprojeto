@@ -7,9 +7,10 @@ Some works are private on
 <h2>  Discover my website <a href="https://system-bee.com.br">system-bee.com.br  </a><h2>
 </div>
 <div align="center">
-  <a alt="Git Hub Status carregando..." href="https://github.com/guilhermeforprojeto">
+
   <img alt="Git Hub Status carregando..." height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeforprojeto&show_icons=true&theme=react"/>
-  <img  alt="Git Hub Status carregando..." height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeforprojeto&layout=compact&show_icons=true&langs_count=60&theme=react"/></a>
+  <img  alt="Git Hub Status carregando..." height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeforprojeto&layout=compact&show_icons=true&langs_count=60&theme=react"/>
+
 <div align="center">
  	 <a href="https://discord.gg/R8NaFWAs7H" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href="https://www.instagram.com/guilherme.blesses" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -46,7 +47,6 @@ Some works are private on
 
 </div>
  <br/>
-
 
   <h3><p align="center">Total de visitas no perfil:</p>
 <p align="center">
