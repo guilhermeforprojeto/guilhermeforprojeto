@@ -30,10 +30,6 @@ Some works are private on
 
 <div align="center"style="display: inline_block"><br>
 
-  <h3><p align="center">Total de visitas no perfil:</p>
-<p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/guilhermeforprojeto/count.svg"/>
-</p>
 <!-- 
   <img src="https://img.itch.zone/aW1hZ2UvNTA4MzgwLzI2MzY1NTAuZ2lm/original/xtkEQm.gif" /> -->
 
