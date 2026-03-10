@@ -9,7 +9,7 @@ Some works are private on
 <div align="center">
 
  
-  <img  alt="Git Hub Status carregando..." height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeforprojeto&layout=compact&show_icons=true&langs_count=6&theme=react"/>
+  <img  alt="Git Hub Status carregando..." height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guilhermeforprojeto&layout=compact&theme=react"/>
 
 <br>
 
